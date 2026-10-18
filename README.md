@@ -205,7 +205,9 @@ software: per asset and per seat.
 
 Contributions are welcome. Start with [`CONTRIBUTING.md`](./CONTRIBUTING.md) for setup and the
 rules that matter, and [`docs/ARCHITECTURE.md`](./docs/ARCHITECTURE.md) for how the code fits
-together. Report security problems privately, as described in [`SECURITY.md`](./SECURITY.md).
+together. The security model — trust boundaries, cookies, rate limits, what an operator can
+see — is documented in [`docs/SECURITY-MODEL.md`](./docs/SECURITY-MODEL.md). Report security
+problems privately, as described in [`SECURITY.md`](./SECURITY.md).
 Everyone taking part is expected to follow the [Code of Conduct](./CODE_OF_CONDUCT.md).
 
 ## License
