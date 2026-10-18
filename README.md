@@ -190,7 +190,7 @@ It was a web search, with several sources read only as summaries, so treat it as
 |---|---|
 | Indexer | Read CAP-67 events for a watched set of regulated assets (classic and SEP-41) |
 | Reconciler | Match on-chain holdings and movements against each register export as it is imported, and on demand; flag breaks |
-| Corporate actions | Record-date snapshots; dividend, split and redemption reconciliation |
+| Corporate actions | Record-date snapshots; dividend, split and redemption reconciliation — see [`docs/corporate-actions.md`](./docs/corporate-actions.md) |
 | Controls log | Every freeze, authorisation change and clawback, tied to the instruction that caused it |
 | Audit export | Regulator- and auditor-ready reports |
 
